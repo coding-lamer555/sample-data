@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Name 1",
+    "description": "Description 1",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/01-1.png",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/01-1.png", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/01-2.png", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/01-3.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/01-4.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/01-5.jpg"],
+    "price": 16,
+    "rating": 4.6,
+    "weight": 1.125
+  },
+  {
+    "id": 2,
+    "name": "Name 2",
+    "description": "Description 2",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/02-1.jpg",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/02-1.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/02-2.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/02-3.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/02-4.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/02-5.jpg"],
+    "price": 2.3,
+    "rating": 4.9,
+    "weight": 1.000
+  },
+  {
+    "id": 3,
+    "name": "Name 3",
+    "description": "Description 3",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/03-1.jpg",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/03-1.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/03-2.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/03-3.jpg"],
+    "price": 1.9,
+    "rating": 4.2,
+    "weight": 0.900
+  },
+  {
+    "id": 4,
+    "name": "Name 4",
+    "description": "Description 4",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/04-1.jpg",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/04-1.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/04-2.jpg"],
+    "price": 1.8,
+    "rating": 3.9,
+    "weight": 1.100
+  },
+  {
+    "id": 5,
+    "name": "Name 5",
+    "description": "Description 5",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/05-1.jpg",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/05-1.jpg"],
+    "price": 9.9,
+    "rating": 5.0,
+    "weight": 0.450
+  },
+  {
+    "id": 6,
+    "name": "Name 6",
+    "description": "Description 6",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/06-1.jpg",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/06-1.jpg"],
+    "price": 5.1,
+    "rating": 4.5,
+    "weight": 0.350
+  },
+  {
+    "id": 7,
+    "name": "Name 7",
+    "description": "Description 7",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/07-1.jpg",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/07-1.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/07-2.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/07-3.jpg"],
+    "price": 1.2,
+    "rating": 4.6,
+    "weight": 0.300
+  },
+  {
+    "id": 8,
+    "name": "Name 8",
+    "description": "Description 8",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/08-1.jpg",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/08-1.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/08-2.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/08-3.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/08-4.jpg"],
+    "price": 1.2,
+    "rating": 4.6,
+    "weight": 0.450
+  },
+  {
+    "id": 9,
+    "name": "Name 9",
+    "description": "Description 9",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/09-1.jpg",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/09-1.jpg"],
+    "price": 7.3,
+    "rating": 4.8,
+    "weight": 0.350
+  },
+  {
+    "id": 10,
+    "name": "Name 10",
+    "description": "Description 10",
+    "preview": "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/10-1.jpg",
+    "gallery": ["https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/10-1.jpg", "https://raw.githubusercontent.com/coding-lamer555/sample-data/main/simple-goods-app/images/10-2.jpeg"],
+    "price": 2.5,
+    "rating": 4.9,
+    "weight": 0.100
+  }
+]
